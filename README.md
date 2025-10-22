@@ -66,7 +66,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
+
 
 <br/>
 <br/>
