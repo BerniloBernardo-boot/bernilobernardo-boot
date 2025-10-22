@@ -85,7 +85,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
     alt="GitHub Stats"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerniloBernardo-boot&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerniloBernardo-boot&theme=tokyonight&&custom_title=Tecnologias&langs_count=2"
 />
 </p>
 
