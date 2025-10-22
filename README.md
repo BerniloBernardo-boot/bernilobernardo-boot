@@ -69,7 +69,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 ### 📊 Estatísticas
 ---
-<p>
+<p align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
