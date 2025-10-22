@@ -1,7 +1,4 @@
 
-
-
-
 # 👩🏻‍💻 Bernilo Bernardo
 **`Desenvolvedor junior`**
 
@@ -14,7 +11,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 
 <p align="left">
-    <a href="https://github.com/BerniloBernardo-boot?tab=repositories&sort=stargazers">
+    <a href="https://github.com/BerniloBernardo-boot?tab=followers&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
