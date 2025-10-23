@@ -1,9 +1,11 @@
+<!-- Banner com gradiente animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Web%20Developer%20INiciante&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 # 👩🏻‍💻 Bernilo Bernardo
-**`Desenvolvedor junior`**
+**`Desenvolvedor iniciante`**
 
 Olá!  Tenho 17 anos e atualmente estou estudando desenvolvimento web através do Curso em Vídeo.
-Sou um desenvolvedor web júnior, apaixonado por tecnologia e sempre em busca de aprender mais a cada projeto. 
+Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre em busca de aprender mais a cada projeto. 
 
 Estou focado em HTML, CSS e JavaScript, e o meu objetivo é me tornar um excelente desenvolvedor, capaz de criar experiências incríveis que conectam pessoas no mundo todo. 
 
@@ -27,8 +29,13 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
         />
     </a>
 </p>
-<!-- Banner com gradiente animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Web%20Developer%20Portfolio&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+
+<br/>
+
+<!-- Título com animação de digitação -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
 
 ---
 
