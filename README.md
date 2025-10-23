@@ -4,7 +4,7 @@
 <br>
 <!-- Título com animação de digitação -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=600&lines=Bernilo+Bernardo;Código+limpo+e Mente clara+%F0%9F%92%A1;Entusiasta+de Código+Aberto+" alt="Typing SVG" />
+
 
 Olá!  Tenho 17 anos e atualmente estou estudando desenvolvimento web através do Curso em Vídeo.
 Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre em busca de aprender mais a cada projeto. 
@@ -33,7 +33,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </p>
 
 <br/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=600&lines=Bernilo+Bernardo;Código+limpo+e Mente clara+%F0%9F%92%A1;Entusiasta+de Código+Aberto+" alt="Typing SVG" />
 
 
 <br/>
