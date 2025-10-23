@@ -13,11 +13,13 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 <!-- Painel de status em tempo real -->
 <!-- Ordem cronológica: Repositórios → Stars → Seguidores → Visitantes → Email -->
-
+<p align="left">
 <a href="https://github.com/bernilobernardo-boot?tab=repositories">
   <img 
-    src="https://custom-icon-badges.demolab.com/github/repos/bernilobernardo-boot?color=1E90FF&label=Repositórios&style=for-the-badge&logo=repo&logoColor=white" 
+    src="https://custom-icon-badges.demolab.com/badge/Repositórios-1E90FF.svg?style=for-the-badge&logo=repo&logoColor=white" 
     alt="Repositórios" 
+  />
+</a>
 <a href="https://github.com/bernilobernardo-boot?tab=stars">
   <img 
     src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=FFD700&label=Stars&style=for-the-badge&logo=star&logoColor=black" 
@@ -45,7 +47,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
     alt="Email" 
   />
 </a>
-
+</p>
 
 ---
 
