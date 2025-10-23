@@ -11,30 +11,24 @@ Estou focado em HTML, CSS e JavaScript, e o meu objetivo é me tornar um excelen
 Gosto de explorar, aprender e evoluir — e este é só o começo da minha jornada como dev.
 <br>
 
-
-<p align="left">
-     <a href="https://github.com/bernilobernardo-boot?tab=stars">
-    <img 
-      alt="Stars" 
-      title="Repositórios com estrelas" 
-      src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star"
-    />
-<p align="center">
-  <a href="https://github.com/bernilobernardo-boot?tab=followers">
-    <img 
-      alt="Seguidores"
-      title="Siga-me no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/bernilobernardo-boot?color=1E90FF&label=Seguidores&style=for-the-badge&logo=person-add&logoColor=white"
-    />
-   <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
-    <img 
-      alt="Repositório" 
-      title="Repositório" 
-      src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo"
-    />
-    <a href="https://github.com/BerniloBernardo-boot?tab=followers">
-    </a>
-</p>
+<a href="https://github.com/bernilobernardo-boot?tab=repositories">
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/Repositórios-1E90FF.svg?style=for-the-badge&logo=repo&logoColor=white" 
+    alt="Repositórios" 
+  />
+</a>
+<a href="https://github.com/bernilobernardo-boot?tab=stars">
+  <img 
+    src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=FFD700&label=Stars&style=for-the-badge&logo=star&logoColor=black" 
+    alt="Stars" 
+  />
+</a>
+<a href="https://github.com/bernilobernardo-boot?tab=followers">
+  <img 
+    src="https://custom-icon-badges.demolab.com/github/followers/bernilobernardo-boot?color=1E90FF&label=Seguidores&style=for-the-badge&logo=person-add&logoColor=white" 
+    alt="Seguidores" 
+  />
+</a>
 
 ---
 
