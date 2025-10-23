@@ -11,24 +11,51 @@ Estou focado em HTML, CSS e JavaScript, e o meu objetivo é me tornar um excelen
 Gosto de explorar, aprender e evoluir — e este é só o começo da minha jornada como dev.
 <br>
 
+<!-- Painel completo de badges do perfil -->
 <a href="https://github.com/bernilobernardo-boot?tab=repositories">
-  <img 
-    src="https://custom-icon-badges.demolab.com/badge/Repositórios-1E90FF.svg?style=for-the-badge&logo=repo&logoColor=white" 
-    alt="Repositórios" 
-  />
+  <img src="https://custom-icon-badges.demolab.com/github/repos/bernilobernardo-boot?color=1E90FF&label=Repositórios&style=for-the-badge&logo=repo&logoColor=white" alt="Repositórios" />
 </a>
+
 <a href="https://github.com/bernilobernardo-boot?tab=stars">
-  <img 
-    src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=FFD700&label=Stars&style=for-the-badge&logo=star&logoColor=black" 
-    alt="Stars" 
-  />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=FFD700&label=Stars&style=for-the-badge&logo=star&logoColor=black" alt="Stars" />
 </a>
+
 <a href="https://github.com/bernilobernardo-boot?tab=followers">
-  <img 
-    src="https://custom-icon-badges.demolab.com/github/followers/bernilobernardo-boot?color=1E90FF&label=Seguidores&style=for-the-badge&logo=person-add&logoColor=white" 
-    alt="Seguidores" 
-  />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/bernilobernardo-boot?color=1E90FF&label=Seguidores&style=for-the-badge&logo=person-add&logoColor=white" alt="Seguidores" />
 </a>
+
+<a href="https://github.com/bernilobernardo-boot?tab=followers">
+  <img src="https://custom-icon-badges.demolab.com/github/following/bernilobernardo-boot?color=1E90FF&label=Seguindo&style=for-the-badge&logo=person&logoColor=white" alt="Seguindo" />
+</a>
+
+<a href="https://github.com/bernilobernardo-boot?tab=forks">
+  <img src="https://custom-icon-badges.demolab.com/github/forks/bernilobernardo-boot?color=1E90FF&label=Forks&style=for-the-badge&logo=repo-forked&logoColor=white" alt="Forks" />
+</a>
+
+<a href="https://github.com/bernilobernardo-boot">
+  <img src="https://custom-icon-badges.demolab.com/github/issues/bernilobernardo-boot?color=1E90FF&label=Issues&style=for-the-badge&logo=issue-opened&logoColor=white" alt="Issues" />
+</a>
+
+<a href="https://github.com/bernilobernardo-boot">
+  <img src="https://custom-icon-badges.demolab.com/github/commits-since/bernilobernardo-boot/main?color=1E90FF&label=Commits&style=for-the-badge&logo=git-commit&logoColor=white" alt="Commits" />
+</a>
+
+<a href="https://github.com/bernilobernardo-boot">
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/bernilobernardo-boot?color=1E90FF&label=Último+Commit&style=for-the-badge&logo=git&logoColor=white" alt="Último Commit" />
+</a>
+
+<a href="https://github.com/bernilobernardo-boot">
+  <img src="https://custom-icon-badges.demolab.com/github/contributors/bernilobernardo-boot?color=1E90FF&label=Contribuições&style=for-the-badge&logo=users&logoColor=white" alt="Contribuições" />
+</a>
+
+<a href="mailto:bernilo.dev@gmail.com">
+  <img src="https://custom-icon-badges.demolab.com/badge/Email-1E90FF.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/bernilobernardo-boot">
+  <img src="https://komarev.com/ghpvc/?username=bernilobernardo-boot&color=1E90FF&style=for-the-badge&label=Visitantes" alt="Visitantes" />
+</a>
+
 
 ---
 
