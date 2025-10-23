@@ -1,6 +1,6 @@
 <!-- Banner com gradiente animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Web%20Developer%20iniciante&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-<br>
+
 <!-- Título com animação de digitação -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Bernilo+Bernardo" alt="Typing SVG" />
 Olá!  Tenho 17 anos e atualmente estou estudando desenvolvimento web através do Curso em Vídeo.
@@ -13,11 +13,17 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 
 <p align="left">
+  <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
+        <img 
+            alt="Repositório" 
+            title="Repositório" 
+            src="[![Repo](https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo)"](https://github.com/bernilobernardo-boot)
+        />
     <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BerniloBernardo-boot?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/BerniloBernardo-boot?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"](https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo)
         />
     </a>
     <a href="https://github.com/BerniloBernardo-boot?tab=followers">
