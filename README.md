@@ -49,8 +49,9 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </a>
 </p>
 
+<!-- DIVISOR ANIMADO AZUL -->
 <p align="center">
-  <img src="https://i.imgur.com/0fX6rXG.gif" width="100%" alt="Divisor Animado Azul"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/images/line2.gif" width="100%" alt="Divisor Animado Azul">
 </p>
 ### 🤖 Linguagens e Tecnologias
 
