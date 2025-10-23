@@ -103,8 +103,9 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 <br clear="left"/>
 <br>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjgiIHZpZXdCb3g9IjAgMCAxMjAwIDgiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPgo8ZGVmcz4KICA8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB4Mj0iMSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxZTNhOGEiLz4KICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzNiODJmNiIvPgogIDwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOCIgZmlsbD0idXJsKCNnKSIgcng9IjQiLz4KPC9zdmc+" alt="" height="8" style="display:block; width:100%;" />
 ### 📊 Estatísticas
----
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjgiIHZpZXdCb3g9IjAgMCAxMjAwIDgiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPgo8ZGVmcz4KICA8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB4Mj0iMSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxZTNhOGEiLz4KICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzNiODJmNiIvPgogIDwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOCIgZmlsbD0idXJsKCNnKSIgcng9IjQiLz4KPC9zdmc+" alt="" height="8" style="display:block; width:100%;" />
 <p>
   <img 
     align="left" 
