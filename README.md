@@ -1,7 +1,9 @@
 <!-- Banner com gradiente animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Web%20Developer%20iniciante&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=200&lines=Bernilo+Bernardo+%F0%9F%9A%80;Código+limpo+mente clara.+%F0%9F%92%A1;Entusiasta+de Código+Aberto+%E2%9C%A8" alt="Typing SVG" />
+<br>
+<!-- Título com animação de digitação -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=600&lines=Bernilo+Bernardo;Código+limpo+e Mente clara+%F0%9F%92%A1;Entusiasta+de Código+Aberto+" alt="Typing SVG" />
 
 Olá!  Tenho 17 anos e atualmente estou estudando desenvolvimento web através do Curso em Vídeo.
 Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre em busca de aprender mais a cada projeto. 
