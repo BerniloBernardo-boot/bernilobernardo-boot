@@ -18,8 +18,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
   <img 
     src="https://custom-icon-badges.demolab.com/github/repos/bernilobernardo-boot?color=1E90FF&label=Repositórios&style=for-the-badge&logo=repo&logoColor=white" 
     alt="Repositórios" 
-  />
-</a>
 <a href="https://github.com/bernilobernardo-boot?tab=stars">
   <img 
     src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=FFD700&label=Stars&style=for-the-badge&logo=star&logoColor=black" 
