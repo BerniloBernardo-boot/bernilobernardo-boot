@@ -4,8 +4,7 @@
 <br>
 <!-- Título com animação de digitação -->
 
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Bernilo+Bernardo+🚀" alt="Typing SVG" />
 Olá!  Tenho 17 anos e atualmente estou estudando desenvolvimento web através do Curso em Vídeo.
 Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre em busca de aprender mais a cada projeto. 
 
