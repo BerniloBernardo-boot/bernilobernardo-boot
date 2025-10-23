@@ -49,8 +49,9 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </a>
 </p>
 
----
-
+<p align="center">
+  <img src="https://i.imgur.com/0fX6rXG.gif" width="100%" alt="Divisor Animado Azul"/>
+</p>
 ### 🤖 Linguagens e Tecnologias
 
 <img 
