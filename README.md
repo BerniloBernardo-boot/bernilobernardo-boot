@@ -22,11 +22,10 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </a>
 <a href="https://github.com/bernilobernardo-boot?tab=stars">
   <img 
-    src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=FFD700&label=Stars&style=for-the-badge&logo=star&logoColor=black" 
+    src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=1E90FF&label=Stars&style=for-the-badge&logo=star&logoColor=white" 
     alt="Stars" 
   />
 </a>
-
 <a href="https://github.com/bernilobernardo-boot?tab=followers">
   <img 
     src="https://custom-icon-badges.demolab.com/github/followers/bernilobernardo-boot?color=1E90FF&label=Seguidores&style=for-the-badge&logo=person-add&logoColor=white" 
@@ -49,10 +48,10 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </a>
 </p>
 
-<!-- DIVISOR ANIMADO AZUL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/images/line2.gif" width="100%" alt="Divisor Animado Azul">
+  <img src="https://i.imgur.com/0fX6rXG.gif" width="100%" alt="Divisor Animado Azul"/>
 </p>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
