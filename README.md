@@ -13,12 +13,12 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 
 <p align="left">
-  <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
-        <img 
-            alt="Repositório" 
-            title="Repositório" 
-            src="[![Repo](https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo)"](https://github.com/bernilobernardo-boot)
-        />
+   <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
+    <img 
+      alt="Repositório" 
+      title="Repositório" 
+      src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo"
+    />
     <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
