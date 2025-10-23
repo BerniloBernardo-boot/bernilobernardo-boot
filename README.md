@@ -13,25 +13,25 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 
 <p align="left">
+     <a href="https://github.com/bernilobernardo-boot?tab=stars">
+    <img 
+      alt="Stars" 
+      title="Repositórios com estrelas" 
+      src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star"
+    />
+      <a href="https://github.com/bernilobernardo-boot?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Meus seguidores no GitHub" 
+      src="https://custom-icon-badges.demolab.com/badge/Seguidores-blue.svg?logo=person-add&logoColor=white"
+    />
    <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
     <img 
       alt="Repositório" 
       title="Repositório" 
       src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo"
     />
-    <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BerniloBernardo-boot?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"](https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo)
-        />
-    </a>
     <a href="https://github.com/BerniloBernardo-boot?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/BerniloBernardo-boot?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a>
 </p>
 
