@@ -103,9 +103,10 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 <br clear="left"/>
 <br>
-<img 
----
+
+
 ###  📊 Estatísticas
+
 ---
   <img 
     align="left" 
