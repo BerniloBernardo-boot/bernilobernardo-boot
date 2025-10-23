@@ -20,8 +20,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
     alt="Repositórios" 
   />
 </a>
-
-
 <a href="https://github.com/bernilobernardo-boot?tab=stars">
   <img 
     src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=FFD700&label=Stars&style=for-the-badge&logo=star&logoColor=black" 
@@ -43,7 +41,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
   />
 </a>
 
-<a href="mailto:bernilo.dev@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox">
   <img 
     src="https://custom-icon-badges.demolab.com/badge/Email-1E90FF.svg?style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Email" 
