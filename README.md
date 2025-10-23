@@ -19,11 +19,12 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
       title="Repositórios com estrelas" 
       src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star"
     />
-       <a href="https://github.com/bernilobernardo-boot?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Segue-me no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/bernilobernardo-boot?color=blue&label=Seguidores&logo=person-add&logoColor=white"
+    <p align="center">
+  <a href="https://github.com/bernilobernardo-boot?tab=followers">
+    <img
+      alt="Seguidores"
+      title="Segue-me no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/bernilobernardo-boot?color=1E90FF&label=Seguidores&style=for-the-badge&logo=person-add&logoColor=white"
     />
    <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
     <img 
