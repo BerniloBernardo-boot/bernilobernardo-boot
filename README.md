@@ -8,7 +8,9 @@ Sou um desenvolvedor web júnior, apaixonado por tecnologia e sempre em busca de
 Estou focado em HTML, CSS e JavaScript, e o meu objetivo é me tornar um excelente desenvolvedor, capaz de criar experiências incríveis que conectam pessoas no mundo todo. 
 
 Gosto de explorar, aprender e evoluir — e este é só o começo da minha jornada como dev.
-
+<br>
+<!-- Banner com gradiente animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Web%20Developer%20Portfolio&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <p align="left">
     <a href="https://github.com/bernilobernardo-boot?tab=repositories&sort=stargazers">
