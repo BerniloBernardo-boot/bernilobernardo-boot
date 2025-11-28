@@ -48,9 +48,10 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </a>
 </p>
 ### 💻 Linguagens e Tecnologias
+
+
 ---
 
-### 💻 Linguagens e Tecnologias
 
 <p align="left">
 
