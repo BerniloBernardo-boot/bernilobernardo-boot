@@ -112,17 +112,9 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&include_all_commits=true&theme=tokyonight" 
 />
 
-
-  <!-- Gráfico de Atividade -->
-  <img 
-    alt="Gráfico de Atividade do GitHub"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bernilobernardo-boot&theme=react-dark&bg_color=0a1f3f&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true"
-  />
-
-</div>
 
 
 <!-- Rodapé decorativo -->
