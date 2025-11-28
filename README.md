@@ -108,18 +108,30 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<p>
-  <!-- Minhas Estatísticas do GitHub -->
+<div align="center">
+
+  <!-- Estatísticas Gerais -->
   <img 
-    align="left" 
     alt="Minhas Estatísticas do GitHub" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=00d4ff"
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&theme=tokyonight&locale=pt-br&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=00d4ff"
   />
 
+  <!-- Linguagens com Porcentagem -->
+  <img 
+    alt="Minhas Linguagens Mais Usadas" 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&text_color=00d4ff&langs_count=10"
+  />
 
-</p>
+  <!-- Gráfico de Atividade -->
+  <img 
+    alt="Gráfico de Atividade do GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bernilobernardo-boot&theme=react-dark&bg_color=0a1f3f&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true"
+  />
+
+</div>
+
 
 <!-- Gráfico principal -->
 <div align="center">
