@@ -108,22 +108,42 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<p>
+<!-- =========================
+     Estatísticas do GitHub e Principais Linguagens
+========================= -->
+
+<p align="left">
+
+  <!-- Card de Estatísticas Gerais -->
   <img 
     align="left" 
-    alt="GitHub Estatísticas" 
+    alt="Estatísticas do GitHub" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&theme=blue" 
+    style="padding-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&include_all_commits=true&theme=blue&locale=pt-br" 
   />
 
+  <!-- Card de Principais Linguagens -->
   <img 
     align="left" 
-    alt="Top Linguagens" 
+    alt="Principais Linguagens" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=blue&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&theme=blue&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
+
+<br clear="left" />
+
+<!-- =========================
+     Dicas de uso
+========================= -->
+<!-- 
+- Substitua "bernilobernardo-boot" pelo nome do usuário do GitHub que deseja exibir.  
+- O card de estatísticas mostra todos os commits, inclusive de forks.  
+- O card de linguagens mostra até 9 linguagens principais, com título personalizado.  
+- O tema azul garante uniformidade e boa visibilidade.  
+-->
 
 
 
