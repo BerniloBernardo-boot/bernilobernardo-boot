@@ -109,22 +109,30 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 ---
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_color=00d4ff&ring_color=00d4ff" />
-      </td>
-      <td align="center" width="50%">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&theme=tokyonight&layout=compact&border_color=00d4ff&ring_color=00d4ff" />
-      </td>
-    </tr>
-  </table>
+  <img 
+    alt="Gráfico de Atividade do GitHub" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bernilobernardo&theme=react-dark&bg_color=0a1f3f&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" 
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer" 
+    alt="Rodapé decorativo" 
+  />
 </div>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bernilobernardo-boot&theme=react-dark&bg_color=0a1f3f&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" />
+  <img 
+    alt="Gráfico de Atividade do GitHub" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bernilobernardo-boot&theme=react-dark&bg_color=0a1f3f&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" 
+  />
 </div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer" alt="Footer" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer" 
+    alt="Rodapé" 
+  />
 </div>
