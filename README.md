@@ -108,6 +108,19 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
+<p>
+  <!-- Minhas Estatísticas do GitHub -->
+  <img 
+    align="left" 
+    alt="Minhas Estatísticas do GitHub" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=00d4ff"
+  />
+
+
+</p>
+
 <!-- Gráfico principal -->
 <div align="center">
   <img 
@@ -124,10 +137,4 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
   />
 </div>
 
-<!-- Segundo gráfico (como você enviou) -->
-<div align="center">
-  <img 
-    alt="Gráfico de Atividade do GitHub (Conta Boot)" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bernilobernardo-boot&theme=react-dark&bg_color=0a1f3f&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" 
-  />
-</div>
+
