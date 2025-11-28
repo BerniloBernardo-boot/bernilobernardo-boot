@@ -132,9 +132,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 <!-- Rodapé decorativo -->
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer" 
-    alt="Rodapé decorativo" 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer"alt="Rodapé decorativo" 
   />
 </div>
 
