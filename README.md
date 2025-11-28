@@ -117,6 +117,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 />
 
 
+
 <img 
    align="left" 
    alt="GitHub Stats"
