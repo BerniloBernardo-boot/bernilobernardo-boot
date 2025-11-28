@@ -108,21 +108,13 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<div align="center">
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 
-  <!-- Estatísticas Gerais -->
-  <img 
-    alt="Minhas Estatísticas do GitHub" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&theme=tokyonight&locale=pt-br&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=00d4ff"
-  />
-
-  <!-- Linguagens com Porcentagem -->
-  <img 
-    alt="Minhas Linguagens Mais Usadas" 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&text_color=00d4ff&langs_count=10"
-  />
 
   <!-- Gráfico de Atividade -->
   <img 
