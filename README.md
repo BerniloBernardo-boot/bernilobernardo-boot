@@ -108,21 +108,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<div align="center">
-  <img 
-    alt="Gráfico de Atividade do GitHub" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bernilobernardo&theme=react-dark&bg_color=0a1f3f&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" 
-  />
-</div>
-
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer" 
-    alt="Rodapé decorativo" 
-  />
-</div>
-
-<!-- Contribution Graph -->
+<!-- Gráfico principal -->
 <div align="center">
   <img 
     alt="Gráfico de Atividade do GitHub" 
@@ -130,9 +116,18 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
   />
 </div>
 
+<!-- Rodapé decorativo -->
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer" 
-    alt="Rodapé" 
+    alt="Rodapé decorativo" 
+  />
+</div>
+
+<!-- Segundo gráfico (como você enviou) -->
+<div align="center">
+  <img 
+    alt="Gráfico de Atividade do GitHub (Conta Boot)" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bernilobernardo-boot&theme=react-dark&bg_color=0a1f3f&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" 
   />
 </div>
