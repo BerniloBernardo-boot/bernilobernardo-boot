@@ -108,10 +108,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<!-- =========================
-     Estatísticas do GitHub e Principais Linguagens
-========================= -->
-
 <p align="left">
 
   <!-- Card de Estatísticas Gerais -->
@@ -134,17 +130,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </p>
 
 <br clear="left" />
-
-<!-- =========================
-     Dicas de uso
-========================= -->
-<!-- 
-- Substitua "bernilobernardo-boot" pelo nome do usuário do GitHub que deseja exibir.  
-- O card de estatísticas mostra todos os commits, inclusive de forks.  
-- O card de linguagens mostra até 9 linguagens principais, com título personalizado.  
-- O tema azul garante uniformidade e boa visibilidade.  
--->
-
 
 
 <!-- Rodapé decorativo -->
