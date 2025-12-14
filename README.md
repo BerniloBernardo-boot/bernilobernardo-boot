@@ -108,19 +108,22 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<div align="left" style="display:flex; gap:20px; flex-wrap:wrap;">
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
 
-  <!-- Estatísticas -->
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=0d1117&hide_border=true"
-  />
+  <div style="padding:3px; background:#1e90ff; border-radius:12px;">
+    <img height="180"
+      src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&hide_border=true"
+    />
+  </div>
 
-  <!-- Linguagens -->
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&title_color=1e90ff&text_color=ffffff&bg_color=0d1117&hide_border=true"
-  />
+  <div style="padding:3px; background:#1e90ff; border-radius:12px;">
+    <img height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&bg_color=0d1117&title_color=1e90ff&text_color=ffffff&hide_border=true"
+    />
+  </div>
 
 </div>
+
 
 
 
