@@ -66,8 +66,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ---
 
 ### 📊 Estatísticas & Repositórios Principais
-
-<!-- Estatísticas alinhadas horizontalmente -->
+<!-- Estatísticas e Pins alinhados horizontalmente -->
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap; margin-bottom:16px;">
 
   <!-- Estatísticas Gerais -->
@@ -85,8 +84,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true"
     />
   </div>
-
-</div>
 
   <!-- Pins dos Repositórios -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&theme=tokyonight" />
