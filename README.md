@@ -109,33 +109,23 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 ---
 
+<div align="center">
 
-<table align="center">
-  <tr>
+  <div style="display:inline-block; padding:4px; margin:5px; border-radius:12px; background: #1e90ff;">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&hide_border=true"
+    />
+  </div>
 
-    <td>
-      <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&title_color=3ea6ff&icon_color=3ea6ff&text_color=ffffff&bg_color=0d1117"
-      />
-    </td>
+  <div style="display:inline-block; padding:4px; margin:5px; border-radius:12px; background: #1e90ff;">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&bg_color=0d1117&title_color=1e90ff&text_color=ffffff&hide_border=true"
+    />
+  </div>
 
-    <td>
-      <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&title_color=3ea6ff&text_color=ffffff&bg_color=0d1117"
-      />
-    </td>
-
-  </tr>
-</table>
-
-
-
-
-
-
-
+</div>
 <!-- Rodapé decorativo -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer"alt="Rodapé decorativo" 
