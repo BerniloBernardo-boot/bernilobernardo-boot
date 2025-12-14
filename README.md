@@ -108,19 +108,19 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<p align="left">
+<div align="left" style="display:flex; gap:20px; flex-wrap:wrap;">
 
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&theme=tokyonight&hide_border=true"
+  <!-- Estatísticas -->
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=0d1117&hide_border=true"
   />
 
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&theme=tokyonight&hide_border=true"
+  <!-- Linguagens -->
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&title_color=1e90ff&text_color=ffffff&bg_color=0d1117&hide_border=true"
   />
 
-</p>
+</div>
 
 
 
