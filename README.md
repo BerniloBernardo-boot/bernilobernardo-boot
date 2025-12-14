@@ -61,6 +61,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </p>
 
 <br clear="left"/>
+<br/>
 
 ---
 
@@ -69,7 +70,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 <div style="white-space: nowrap;">
 
   <!-- Estatísticas Gerais -->
-  <div style="display:inline-block; padding:4px; margin:2px; border-radius:12px; background:#1e90ff; border: 2px solid white;">
+  <div style="display:inline-block; padding:4px; margin:2px; border-radius:12px; background:#1e90ff; border: 2px solid #00BFFF; box-shadow: 0 0 10px #00BFFF;">
     <img
       height="180"
       src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&hide_border=true"
@@ -77,7 +78,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
   </div>
 
   <!-- Linguagens -->
-  <div style="display:inline-block; padding:4px; margin:2px; border-radius:12px; background:#1e90ff; border: 2px solid white;">
+  <div style="display:inline-block; padding:4px; margin:2px; border-radius:12px; background:#1e90ff; border: 2px solid #00BFFF; box-shadow: 0 0 10px #00BFFF;">
     <img
       height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&bg_color=0d1117&title_color=1e90ff&text_color=ffffff&hide_border=true"
@@ -90,13 +91,17 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 ### 📂 Repositórios Principais
 
-<!-- Repositórios Principais -->
 <div style="white-space: nowrap; margin-top:12px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=bernilobernardo-boot&theme=tokyonight" />
+  <div style="display:inline-block; padding:2px; border-radius:8px; border:2px solid #00BFFF; box-shadow:0 0 10px #00BFFF; margin-right:4px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&theme=tokyonight" />
+  </div>
+  <div style="display:inline-block; padding:2px; border-radius:8px; border:2px solid #00BFFF; box-shadow:0 0 10px #00BFFF; margin-right:4px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&theme=tokyonight" />
+  </div>
+  <div style="display:inline-block; padding:2px; border-radius:8px; border:2px solid #00BFFF; box-shadow:0 0 10px #00BFFF;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=bernilobernardo-boot&theme=tokyonight" />
+  </div>
 </div>
-
 
 ---
 
