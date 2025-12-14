@@ -108,21 +108,36 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
 
-  <div style="padding:3px; background:#1e90ff; border-radius:12px;">
-    <img height="180"
-      src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&hide_border=true"
+
+<div align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap;">
+
+  <!-- Estatísticas Gerais -->
+  <div style="
+    padding:4px;
+    border-radius:14px;
+    background:linear-gradient(135deg, #3ea6ff, #1e90ff);
+  ">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=3ea6ff&icon_color=3ea6ff&text_color=ffffff&hide_border=true"
     />
   </div>
 
-  <div style="padding:3px; background:#1e90ff; border-radius:12px;">
-    <img height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&bg_color=0d1117&title_color=1e90ff&text_color=ffffff&hide_border=true"
+  <!-- Linguagens -->
+  <div style="
+    padding:4px;
+    border-radius:14px;
+    background:linear-gradient(135deg, #3ea6ff, #1e90ff);
+  ">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&bg_color=0d1117&title_color=3ea6ff&text_color=ffffff&hide_border=true"
     />
   </div>
 
 </div>
+
 
 
 
