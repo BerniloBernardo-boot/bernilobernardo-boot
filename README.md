@@ -75,7 +75,11 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
       height="180"
       src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true"
     />
-       <img
+   
+  </div>
+    <!-- Linguagens -->
+  <div style="padding:4px; border-radius:12px; border: 2px solid #00BFFF; box-shadow: 0 0 12px #00BFFF;">
+    <img
       height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true"
     />
