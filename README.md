@@ -108,13 +108,14 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<div align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap;">
+<div style="display:flex; gap:24px; flex-wrap:wrap;">
 
   <!-- Estatísticas Gerais -->
   <div style="
     padding:4px;
     border-radius:14px;
     background:linear-gradient(135deg, #3ea6ff, #1e90ff);
+    border: 3px solid white;
   ">
     <img
       height="180"
@@ -127,6 +128,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
     padding:4px;
     border-radius:14px;
     background:linear-gradient(135deg, #3ea6ff, #1e90ff);
+    border: 3px solid white;
   ">
     <img
       height="180"
