@@ -127,9 +127,9 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 <!-- Pins dos Repositórios -->
 <div style="white-space: nowrap; margin-top:12px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo2&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo3&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerniloBernardo-boot&repo=repo1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerniloBernardo-boot&repo=repo2&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerniloBernardo-boot&repo=repo3&theme=tokyonight" />
 </div>
 
 ---
