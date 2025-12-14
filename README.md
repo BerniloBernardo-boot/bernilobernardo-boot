@@ -108,26 +108,26 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-
 <div align="center">
 
   <!-- Estatísticas Gerais -->
-  <div style="display:inline-block; padding:4px; margin:5px; border-radius:12px; background:#1e90ff;">
+  <div style="display:inline-block; padding:4px; margin:5px; border-radius:12px; background: linear-gradient(to bottom right, #1e90ff, #3ea6ff);">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true"
     />
   </div>
 
   <!-- Linguagens -->
-  <div style="display:inline-block; padding:4px; margin:5px; border-radius:12px; background:#1e90ff;">
+  <div style="display:inline-block; padding:4px; margin:5px; border-radius:12px; background: linear-gradient(to bottom right, #1e90ff, #3ea6ff);">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&bg_color=0d1117&title_color=1e90ff&text_color=ffffff&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&bg_color=0d1117&title_color=ffffff&text_color=ffffff&hide_border=true"
     />
   </div>
 
 </div>
+
 
 
 </div>
