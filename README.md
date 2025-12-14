@@ -88,6 +88,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 </div>
 
+---
 ### 📂 Repositórios Principais
 
 <!-- Repositórios principais alinhados horizontalmente -->
