@@ -110,22 +110,18 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ---
 <p align="left">
 
-  <!-- Card de Estatísticas Gerais -->
   <img 
-    alt="Estatísticas do GitHub" 
-    height="200" 
-    style="padding-right: 20px;" 
-    src="https://raw.githubusercontent.com/bernilobernardo-boot/README-assets/main/github-stats.svg" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
-  <!-- Card de Principais Linguagens -->
   <img 
-    alt="Principais Linguagens" 
-    height="200" 
-    src="https://raw.githubusercontent.com/bernilobernardo-boot/README-assets/main/top-langs.svg" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </p>
+
 
 
 
