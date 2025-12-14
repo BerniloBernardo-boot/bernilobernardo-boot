@@ -108,7 +108,7 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 ###  📊 Estatísticas
 
 ---
-<div>
+<div style="white-space: nowrap;">
 
   <!-- Estatísticas Gerais -->
   <div style="display:inline-block; padding:4px; margin:2px; border-radius:12px; background:#1e90ff; border: 2px solid white;">
