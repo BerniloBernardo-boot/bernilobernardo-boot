@@ -65,9 +65,10 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 ---
 
-### 📊 Estatísticas & Repositórios Principais
-<!-- Estatísticas e Pins alinhados horizontalmente -->
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap; margin-bottom:16px;">
+### 📊 Estatísticas
+
+<!-- Estatísticas alinhadas horizontalmente -->
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap; margin-bottom:24px;">
 
   <!-- Estatísticas Gerais -->
   <div style="padding:4px; border-radius:12px; border: 2px solid #00BFFF; box-shadow: 0 0 12px #00BFFF;">
@@ -75,9 +76,9 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
       height="180"
       src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true"
     />
-   
   </div>
-    <!-- Linguagens -->
+
+  <!-- Linguagens -->
   <div style="padding:4px; border-radius:12px; border: 2px solid #00BFFF; box-shadow: 0 0 12px #00BFFF;">
     <img
       height="180"
@@ -85,13 +86,19 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
     />
   </div>
 
+</div>
 
-  <!-- Pins dos Repositórios -->
+### 📂 Repositórios Principais
+
+<!-- Repositórios principais alinhados horizontalmente -->
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap; margin-bottom:16px;">
+
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=bernilobernardo-boot&theme=tokyonight" />
 
 </div>
+
 
 ---
 
