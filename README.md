@@ -90,13 +90,13 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 ### 📂 Repositórios Principais
 
+<!-- Repositórios Principais -->
 <div style="white-space: nowrap; margin-top:12px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo2&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo3&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=bernilobernardo-boot&theme=tokyonight" />
 </div>
 
-> **⚠️ Atenção:** Substitua `repo1`, `repo2`, `repo3` pelos **nomes reais dos seus repositórios públicos**. Repositórios privados não aparecem.
 
 ---
 
