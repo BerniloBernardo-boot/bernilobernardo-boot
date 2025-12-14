@@ -1,18 +1,22 @@
 <!-- Banner com gradiente animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Web%20Developer%20iniciante&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Web%20Developer%20Iniciante&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Título com animação de digitação -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Bernilo+Bernardo" alt="Typing SVG" />
-Olá!  Tenho 17 anos e atualmente estou estudando desenvolvimento web através do Curso em Vídeo.
-Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre em busca de aprender mais a cada projeto. 
 
-Estou focado em HTML, CSS e JavaScript, e o meu objetivo é me tornar um excelente desenvolvedor, capaz de criar experiências incríveis que conectam pessoas no mundo todo. 
+<p><em>Aprendendo e evoluindo a cada linha de código 🚀</em></p>
+
+Olá! Tenho 17 anos e atualmente estou estudando desenvolvimento web através do Curso em Vídeo.  
+Sou um desenvolvedor web iniciante, apaixonado por tecnologia e sempre em busca de aprender mais a cada projeto.  
+
+Estou focado em HTML, CSS e JavaScript, e meu objetivo é me tornar um excelente desenvolvedor, capaz de criar experiências incríveis que conectam pessoas no mundo todo.  
 
 Gosto de explorar, aprender e evoluir — e este é só o começo da minha jornada como dev.
-<br>
 
-<!-- Painel de status em tempo real -->
-<!-- Ordem cronológica: Repositórios → Stars → Seguidores → Visitantes → Email -->
+---
+
+### 📊 Painel de Status
+
 <p align="left">
 <a href="https://github.com/bernilobernardo-boot?tab=repositories">
   <img 
@@ -32,15 +36,13 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
     alt="Seguidores" 
   />
 </a>
-
 <a href="https://github.com/bernilobernardo-boot">
   <img 
     src="https://komarev.com/ghpvc/?username=bernilobernardo-boot&color=1E90FF&style=for-the-badge&label=Visitantes" 
     alt="Visitantes" 
   />
 </a>
-
-<a href="https://mail.google.com/mail/u/0/#inbox">
+<a href="mailto:seu-email@gmail.com">
   <img 
     src="https://custom-icon-badges.demolab.com/badge/Email-1E90FF.svg?style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Email" 
@@ -48,10 +50,10 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </a>
 </p>
 
-
+---
 
 ### 💻 Linguagens e Tecnologias
----
+
 <p align="left">
 
   <img 
@@ -62,7 +64,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
       style="padding-right:10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
-
   <img 
       align="left" 
       alt="CSS" 
@@ -71,7 +72,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
       style="padding-right:10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
-
   <img 
       align="left" 
       alt="JavaScript" 
@@ -80,7 +80,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
       style="padding-right:10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
-
   <img 
       align="left" 
       alt="Git" 
@@ -89,7 +88,6 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
       style="padding-right:10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
-
   <img 
       align="left" 
       alt="VS Code" 
@@ -102,13 +100,12 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 </p>
 
 <br clear="left"/>
-<br>
-
-
-###  📊 Estatísticas
 
 ---
-<div style="white-space: nowrap;">
+
+### 📊 Estatísticas do GitHub
+
+<div style="white-space: nowrap; margin-bottom:12px;">
 
   <!-- Estatísticas Gerais -->
   <div style="display:inline-block; padding:4px; margin:2px; border-radius:12px; background:#1e90ff; border: 2px solid white;">
@@ -128,15 +125,34 @@ Gosto de explorar, aprender e evoluir — e este é só o começo da minha jorna
 
 </div>
 
-
-
-
-
+<!-- Pins dos Repositórios -->
+<div style="white-space: nowrap; margin-top:12px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo2&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=repo3&theme=tokyonight" />
 </div>
+
+---
+
+### 📫 Contato / Redes Sociais
+
+<p>
+<a href="https://www.linkedin.com/in/seu-perfil">
+  <img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/seu-usuario">
+  <img src="https://img.shields.io/badge/Twitter-1e90ff?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="mailto:seu-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1e90ff?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
 <!-- Rodapé decorativo -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer"alt="Rodapé decorativo" 
-  />
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer" alt="Rodapé decorativo"/>
 </div>
 
 
