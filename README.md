@@ -130,8 +130,6 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 --- 
 
----
-
 ### Contato
 
 <p align="left">
