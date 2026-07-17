@@ -1,149 +1,131 @@
-<!-- Banner com gradiente animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Web%20Developer%20&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Bernilo%20Bernardo&fontSize=48&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 
-<!-- Título com animação de digitação -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Bernilo+Bernardo;Web+Developer+%7C+Linux+Enthusiast" alt="Typing SVG" />
-
----
-
-### 👋 Sobre mim
-
-Olá! Meu nome é **Bernilo Bernardo**, tenho 18 anos e sou desenvolvedor web iniciante.  
-Atualmente estudo desenvolvimento web (HTML, CSS, JavaScript) e também exploro ferramentas e tecnologias do ecossistema Linux.  
-
-Gosto de aprender construindo projetos reais, testando ideias e melhorando meu código a cada commit.  
-Meu objetivo é me tornar um desenvolvedor capaz de criar experiências modernas, acessíveis e que conectem pessoas no mundo todo.
-
----
-
-### 💻 Ambiente e Ferramentas
-
-- Sistema operacional: Linux (rice, customização de ambiente, terminal).
-- Terminal e automação: Bash para scripts e tarefas do dia a dia.
-- Editor principal: Visual Studio Code / Neovim (se usar, pode mencionar).
-- Design e UI: Figma e Framer para prototipagem e animações de interfaces.
-- 3D e visual: Blender para modelagem e experimentos gráficos.
-
----
-
-### 🧠 Stack atual
-
-**Linguagens e tecnologias que uso hoje:**
-
-<p align="left">
-  <!-- Web básico -->
-  <img align="left" alt="HTML5" title="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS3" title="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-  <!-- Backend e ferramentas -->
-  <img align="left" alt="Node.js" title="Node.js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="left" alt="Docker" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
-  <!-- Ferramentas de produtividade e design -->
-  <img align="left" alt="VS Code" title="Visual Studio Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="left" alt="Figma" title="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="left" alt="Framer" title="Framer" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" />
-  <img align="left" alt="Blender" title="Blender" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-</p>
-
-<br clear="left"/>
-<br/>
-
----
-
-### 🚀 O que estou estudando agora
-
-- Aprofundando HTML, CSS e JavaScript (Curso em Vídeo e projetos pessoais).
-- Praticando Node.js para criar APIs simples.
-- Melhorando meus scripts em Bash e minha configuração de Linux (rice).
-- Explorando animações e protótipos com Framer e Figma.
-- Brincando com cenas e modelos em Blender.
-
----
-
-### 📊 Painel de Status
-
-<p align="left">
-<a href="https://github.com/bernilobernardo-boot?tab=repositories">
-  <img 
-    src="https://custom-icon-badges.demolab.com/badge/Repositórios-1E90FF.svg?style=for-the-badge&logo=repo&logoColor=white" 
-    alt="Repositórios" 
-  />
-</a>
-<a href="https://github.com/bernilobernardo-boot?tab=stars">
-  <img 
-    src="https://custom-icon-badges.demolab.com/github/stars/bernilobernardo-boot?color=1E90FF&label=Stars&style=for-the-badge&logo=star&logoColor=white" 
-    alt="Stars" 
-  />
-</a>
-<a href="https://github.com/bernilobernardo-boot?tab=followers">
-  <img 
-    src="https://custom-icon-badges.demolab.com/github/followers/bernilobernardo-boot?color=1E90FF&label=Seguidores&style=for-the-badge&logo=person-add&logoColor=white" 
-    alt="Seguidores" 
-  />
-</a>
-<a href="https://github.com/bernilobernardo-boot">
-  <img 
-    src="https://komarev.com/ghpvc/?username=bernilobernardo-boot&color=1E90FF&style=for-the-badge&label=Visitantes" 
-    alt="Visitantes" 
-  />
-</a>
-<a href="mailto:seu-email@gmail.com">
-  <img 
-    src="https://custom-icon-badges.demolab.com/badge/Email-1E90FF.svg?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Email" 
-  />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=520&lines=Junior+Frontend+Developer;Linux+%2F+Kubuntu+%2B+Rice+Setups;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Node;Sempre+a+construir." alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 Estatísticas
+### Sobre mim
 
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap; margin-bottom:24px;">
+18 anos, Angola. Frontend developer júnior, a construir a minha própria trajetória com foco em interfaces bem feitas e ambiente de desenvolvimento próprio — uso Linux (Kubuntu) no dia a dia, incluindo rice setups personalizados.
 
-  <!-- Estatísticas Gerais -->
-  <div style="padding:4px; border-radius:12px; border: 2px solid #00BFFF; box-shadow: 0 0 12px #00BFFF;">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true"
-    />
-  </div>
+Trabalho principalmente com HTML, CSS e JavaScript, com Node.js no back-end quando o projeto precisa, e uso Figma e Framer para desenhar antes de construir. Blender entra quando o projeto pede motion ou algo em 3D.
 
-  <!-- Linguagens -->
-  <div style="padding:4px; border-radius:12px; border: 2px solid #00BFFF; box-shadow: 0 0 12px #00BFFF;">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true"
-    />
-  </div>
-
-</div>
+O objetivo é simples: sair de júnior para referência — primeiro em projetos próprios, depois para clientes e equipas.
 
 ---
 
-### 📂 Repositórios principais
+### Stack
 
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap; margin-bottom:16px;">
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-000000.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=bernilobernardo-boot&theme=tokyonight" />
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-000000.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Bash-000000.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
 
-</div>
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Blender-000000.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-### 📬 Como falar comigo
+### Projetos em destaque
 
-- Email: `seu-email@gmail.com`
-- (Opcional) Portfólio / Linktree / LinkedIn, se tiver.
+- **Portfólio pessoal**  
+  Site de apresentação com hero em estilo terminal e animações de scroll (GSAP), incluindo uma tabela "Project Hall of Fame" com os projetos concluídos.  
+  _HTML · CSS · JavaScript · GSAP_ — [Repositório](#)
+
+- **Huambo Express**  
+  Sistema de gestão de encomendas logísticas — versão full‑stack com PHP/MySQL e dashboard com KPIs, e uma versão frontend standalone com toggle de modo claro/escuro.  
+  _JavaScript · PHP · MySQL_ — [Repositório](#)
+
+- **VitaCare**  
+  Sistema de gestão para clínicas com seis módulos, autenticação JWT e agendamento semanal de consultas.  
+  _HTML · CSS · JavaScript · PHP · MySQL · JWT_ — [Repositório](#)
+
+> Substitui os links `#` acima pelos URLs reais dos repositórios assim que estiverem publicados no teu GitHub.
 
 ---
 
-<!-- Rodapé decorativo -->
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer" alt="Rodapé decorativo" />
-</div>
+### Estatísticas
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_color=ffffff"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&border_color=ffffff"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bernilobernardo-boot&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888"
+  />
+</p>
+
+---
+
+### Repositórios em destaque
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" />
+</p>
+
+> Estes cards puxam automaticamente do GitHub — troca `Html-css` e `Javascript` pelos nomes exatos dos repositórios que queres fixar (têm de existir na tua conta).
+
+---
+
+### Atualmente a aprender
+
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript%20avançado-1a1a1a.svg?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Three.js%20%2F%20WebGL-1a1a1a.svg?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Motion%20Design-1a1a1a.svg?style=flat-square&logo=blender&logoColor=white" />
+</p>
+
+---
+
+### Roadmap
+
+- [x] HTML  
+- [x] CSS  
+- [x] JavaScript  
+- [x] Git  
+- [x] Linux / Bash  
+- [x] Node.js  
+- [x] Figma  
+- [ ] Docker (em prática)  
+- [ ] Framer (em prática)  
+- [ ] Blender / 3D (em prática)  
+- [ ] Three.js / WebGL  
+
+---
+
+### Contato
+
+<p align="left">
+  <a href="https://github.com/bernilobernardo-boot">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-000000.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
