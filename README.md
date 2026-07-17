@@ -49,8 +49,8 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
       <h4>Portfólio pessoal</h4>
       <p>Site de apresentação com hero em estilo terminal e animações de scroll (GSAP), incluindo uma tabela "Project Hall of Fame" com os projetos concluídos.</p>
       <img src="https://custom-icon-badges.demolab.com/badge/HTML-1a1a1a.svg?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://custom-icon-badges.demolab.com/badge/CSS-1a1a1a.svg?style=flat-square&logo=css3&logoColor=1572B6" />
-      <img src="https://custom-icon-badges.demolab.com/badge/GSAP-1a1a1a.svg?style=flat-square&logoColor=88CE02" />
+      <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02.svg?style=flat-square&logo=gsap&logoColor=white" />
       <br/><br/>
       <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Repositório-000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
@@ -75,8 +75,6 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   </tr>
 </table>
 
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%"><path fill="#273036" fill-opacity="1" d="M0,192L0,256L36.9,256L36.9,96L73.8,96L73.8,64L110.8,64L110.8,64L147.7,64L147.7,96L184.6,96L184.6,96L221.5,96L221.5,192L258.5,192L258.5,128L295.4,128L295.4,64L332.3,64L332.3,64L369.2,64L369.2,256L406.2,256L406.2,64L443.1,64L443.1,224L480,224L480,96L516.9,96L516.9,288L553.8,288L553.8,224L590.8,224L590.8,128L627.7,128L627.7,160L664.6,160L664.6,64L701.5,64L701.5,64L738.5,64L738.5,192L775.4,192L775.4,160L812.3,160L812.3,64L849.2,64L849.2,192L886.2,192L886.2,320L923.1,320L923.1,64L960,64L960,128L996.9,128L996.9,64L1033.8,64L1033.8,224L1070.8,224L1070.8,128L1107.7,128L1107.7,64L1144.6,64L1144.6,96L1181.5,96L1181.5,128L1218.5,128L1218.5,32L1255.4,32L1255.4,192L1292.3,192L1292.3,160L1329.2,160L1329.2,128L1366.2,128L1366.2,256L1403.1,256L1403.1,224L1440,224L1440,0L1403.1,0L1403.1,0L1366.2,0L1366.2,0L1329.2,0L1329.2,0L1292.3,0L1292.3,0L1255.4,0L1255.4,0L1218.5,0L1218.5,0L1181.5,0L1181.5,0L1144.6,0L1144.6,0L1107.7,0L1107.7,0L1070.8,0L1070.8,0L1033.8,0L1033.8,0L996.9,0L996.9,0L960,0L960,0L923.1,0L923.1,0L886.2,0L886.2,0L849.2,0L849.2,0L812.3,0L812.3,0L775.4,0L775.4,0L738.5,0L738.5,0L701.5,0L701.5,0L664.6,0L664.6,0L627.7,0L627.7,0L590.8,0L590.8,0L553.8,0L553.8,0L516.9,0L516.9,0L480,0L480,0L443.1,0L443.1,0L406.2,0L406.2,0L369.2,0L369.2,0L332.3,0L332.3,0L295.4,0L295.4,0L258.5,0L258.5,0L221.5,0L221.5,0L184.6,0L184.6,0L147.7,0L147.7,0L110.8,0L110.8,0L73.8,0L73.8,0L36.9,0L36.9,0L0,0L0,0Z"></path></svg>
 
 ---
 
