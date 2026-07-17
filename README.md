@@ -90,7 +90,6 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&border_color=ffffff"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=bernilobernardo-boot&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888"
@@ -127,7 +126,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 ### Contato
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/bernilobernardo-boot">
     <img src="https://custom-icon-badges.demolab.com/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -142,8 +141,5 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   </a>
 </p>
 
-> Substitui os `#` do LinkedIn e Instagram pelos teus links reais.
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%"><path fill="#273036" fill-opacity="1" d="M0,192L0,32L36.9,32L36.9,32L73.8,32L73.8,288L110.8,288L110.8,0L147.7,0L147.7,288L184.6,288L184.6,32L221.5,32L221.5,64L258.5,64L258.5,288L295.4,288L295.4,160L332.3,160L332.3,192L369.2,192L369.2,64L406.2,64L406.2,192L443.1,192L443.1,160L480,160L480,288L516.9,288L516.9,64L553.8,64L553.8,256L590.8,256L590.8,128L627.7,128L627.7,288L664.6,288L664.6,160L701.5,160L701.5,96L738.5,96L738.5,160L775.4,160L775.4,32L812.3,32L812.3,160L849.2,160L849.2,160L886.2,160L886.2,64L923.1,64L923.1,32L960,32L960,64L996.9,64L996.9,256L1033.8,256L1033.8,256L1070.8,256L1070.8,192L1107.7,192L1107.7,128L1144.6,128L1144.6,256L1181.5,256L1181.5,224L1218.5,224L1218.5,160L1255.4,160L1255.4,96L1292.3,96L1292.3,64L1329.2,64L1329.2,224L1366.2,224L1366.2,192L1403.1,192L1403.1,96L1440,96L1440,320L1403.1,320L1403.1,320L1366.2,320L1366.2,320L1329.2,320L1329.2,320L1292.3,320L1292.3,320L1255.4,320L1255.4,320L1218.5,320L1218.5,320L1181.5,320L1181.5,320L1144.6,320L1144.6,320L1107.7,320L1107.7,320L1070.8,320L1070.8,320L1033.8,320L1033.8,320L996.9,320L996.9,320L960,320L960,320L923.1,320L923.1,320L886.2,320L886.2,320L849.2,320L849.2,320L812.3,320L812.3,320L775.4,320L775.4,320L738.5,320L738.5,320L701.5,320L701.5,320L664.6,320L664.6,320L627.7,320L627.7,320L590.8,320L590.8,320L553.8,320L553.8,320L516.9,320L516.9,320L480,320L480,320L443.1,320L443.1,320L406.2,320L406.2,320L369.2,320L369.2,320L332.3,320L332.3,320L295.4,320L295.4,320L258.5,320L258.5,320L221.5,320L221.5,320L184.6,320L184.6,320L147.7,320L147.7,320L110.8,320L110.8,320L73.8,320L73.8,320L36.9,320L36.9,320L0,320L0,320Z"></path></svg>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
