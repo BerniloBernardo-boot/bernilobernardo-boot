@@ -97,26 +97,4 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
-### Repositórios em destaque
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/BerniloBernardo-boot/Html-css">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/BerniloBernardo-boot/Javascript">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
-
-
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
