@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=520&lines=Junior+Frontend+Developer;Linux+%2F+Kubuntu+%2B+Rice+Setups;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Node;Sempre+a+construir." alt="Typing SVG" />
 </p>
 
-<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=273036&height=2&width=100%" />
 
 ### Sobre mim
 
