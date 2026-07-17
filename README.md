@@ -128,23 +128,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-1a1a1a.svg?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
----
-
-### Roadmap
-
-- [x] HTML  
-- [x] CSS  
-- [x] JavaScript  
-- [x] Git  
-- [x] Linux / Bash  
-- [x] Node.js  
-- [x] Figma  
-- [x] Framer  
-- [x] Blender / 3D  
-- [x] Three.js / WebGL  
-- [ ] Docker (em prática)  
-- [ ] Python (em prática)  
-- [ ] Motion Design (em prática)  
+--- 
 
 ---
 
