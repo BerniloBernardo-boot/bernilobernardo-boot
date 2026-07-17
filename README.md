@@ -20,7 +20,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-000000.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://custom-icon-badges.demolab.com/badge/Node.js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
