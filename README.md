@@ -45,15 +45,15 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4>Portfólio pessoal</h4>
-      <p>Site de apresentação com hero em estilo terminal e animações de scroll (GSAP), incluindo uma tabela "Project Hall of Fame" com os projetos concluídos.</p>
-      <img src="https://custom-icon-badges.demolab.com/badge/HTML-1a1a1a.svg?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/GSAP-88CE02.svg?style=flat-square&logo=gsap&logoColor=white" />
-      <br/><br/>
-      <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Repositório-000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
+<td width="33%" valign="top">
+  <h4>Portfólio pessoal</h4>
+  <p>Site de apresentação com hero em estilo terminal e animações de scroll (GSAP), incluindo uma tabela "Project Hall of Fame" com os projetos concluídos.</p>
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML-1a1a1a.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS-1a1a1a.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/GSAP-1a1a1a.svg?style=flat-square&logo=gsap&logoColor=white" />
+  <br/><br/>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Repositório-000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
     <td width="33%" valign="top">
       <h4>Huambo Express</h4>
       <p>Sistema de gestão de encomendas logísticas — versão full-stack com PHP/MySQL e dashboard com KPIs, e uma versão frontend standalone com toggle de modo claro/escuro.</p>
