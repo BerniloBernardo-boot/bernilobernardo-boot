@@ -116,33 +116,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
-### Atualmente a aprender
 
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-1a1a1a.svg?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Motion%20Design-1a1a1a.svg?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/WebGL-1a1a1a.svg?style=flat-square&logo=webgl&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-1a1a1a.svg?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-
-
-### Contato
-
-<p align="center">
-  <a href="https://github.com/bernilobernardo-boot">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-000000.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-000000.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
