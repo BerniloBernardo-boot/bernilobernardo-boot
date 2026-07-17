@@ -14,7 +14,7 @@ Trabalho principalmente com HTML, CSS e JavaScript, com Node.js no back-end quan
 
 O objetivo é simples: sair de júnior para referência — primeiro em projetos próprios, depois para clientes e equipas.
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
 ### Stack
 
@@ -39,7 +39,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   <img src="https://custom-icon-badges.demolab.com/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
 ### Projetos em destaque
 
@@ -75,8 +75,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   </tr>
 </table>
 
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
 ### Estatísticas
 
@@ -96,7 +95,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   />
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
 ### Repositórios em destaque
 
@@ -115,7 +114,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   </tr>
 </table>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
 ### Atualmente a aprender
 
