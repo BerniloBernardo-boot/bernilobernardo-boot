@@ -103,10 +103,14 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" />
+      <a href="https://github.com/BerniloBernardo-boot/Html-css">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Html-css&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" />
+      </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" />
+      <a href="https://github.com/BerniloBernardo-boot/Javascript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bernilobernardo-boot&repo=Javascript&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" />
+      </a>
     </td>
   </tr>
 </table>
