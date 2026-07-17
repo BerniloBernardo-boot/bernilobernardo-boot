@@ -95,6 +95,4 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
