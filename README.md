@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=520&lines=Junior+Frontend+Developer;Linux+%2F+Kubuntu+%2B+Rice+Setups;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Node;Sempre+a+construir." alt="Typing SVG" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:555555,100:111111&height=3&width=100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
 ### Sobre mim
 
@@ -13,7 +14,7 @@ Trabalho principalmente com HTML, CSS e JavaScript, com Node.js no back-end quan
 
 O objetivo é simples: sair de júnior para referência — primeiro em projetos próprios, depois para clientes e equipas.
 
----
+
 
 ### Stack
 
@@ -38,7 +39,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   <img src="https://custom-icon-badges.demolab.com/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
 
----
+
 
 ### Projetos em destaque
 
@@ -75,7 +76,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 </table>
 
 
----
+
 
 ### Estatísticas
 
@@ -95,7 +96,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   />
 </p>
 
----
+
 
 ### Repositórios em destaque
 
@@ -114,7 +115,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   </tr>
 </table>
 
----
+
 
 ### Atualmente a aprender
 
@@ -125,7 +126,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-1a1a1a.svg?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
---- 
+
 
 ### Contato
 
