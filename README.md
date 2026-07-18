@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1200&color=000000&background=00000000&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer;Linux+%2F+Kubuntu+%2B+Rice+Setups;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Node;Sempre+a+construir."
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1200&color=000000&background=F5F5F5&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer;Linux+%2F+Kubuntu+%2B+Rice+Setups;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Node;Sempre+a+construir."
     alt="Typing SVG"
   />
 </p>
