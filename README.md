@@ -71,22 +71,13 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <h3 align="center">Estatísticas</h3>
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=BerniloBernardo-boot&show_icons=true&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc"
-  />
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerniloBernardo-boot&layout=compact&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=BerniloBernardo-boot&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888"
-  />
-</p>
+<div align="center">
 
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=BerniloBernardo-boot&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888" />
+
+</div>
+
+</div>
 
