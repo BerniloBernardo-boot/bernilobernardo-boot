@@ -10,7 +10,7 @@
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
-### Sobre mim
+h3 align="center">Sobre min</h3>
 
 18 anos, Angola. Frontend developer júnior, a construir a minha própria trajetória com foco em interfaces bem feitas e ambiente de desenvolvimento próprio — uso Linux (Kubuntu) no dia a dia, incluindo rice setups personalizados.
 
@@ -47,7 +47,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
-### Projetos em destaque
+h3 align="center">Projectos em destaques</h3>
 
 <table>
 <td width="33%" valign="top">
