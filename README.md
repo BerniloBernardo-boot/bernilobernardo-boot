@@ -38,9 +38,11 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Blender-000000.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+<img src="https://custom-icon-badges.demolab.com/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+<img src="https://custom-icon-badges.demolab.com/badge/Blender-000000.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+<img src="https://custom-icon-badges.demolab.com/badge/Python-000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://custom-icon-badges.demolab.com/badge/Shell-000000.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+<img src="https://custom-icon-badges.demolab.com/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
@@ -48,37 +50,23 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 ### Projetos em destaque
 
 <table>
-  <tr>
 <td width="33%" valign="top">
-  <h4>Portfólio pessoal</h4>
-  <p>Site de apresentação com hero em estilo terminal e animações de scroll (GSAP), incluindo uma tabela "Project Hall of Fame" com os projetos concluídos.</p>
-  <img src="https://custom-icon-badges.demolab.com/badge/HTML-1a1a1a.svg?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/CSS-1a1a1a.svg?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GSAP-1a1a1a.svg?style=flat-square&logo=gsap&logoColor=white" />
-  <br/><br/>
-  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Repositório-000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-    <td width="33%" valign="top">
-      <h4>Huambo Express</h4>
-      <p>Sistema de gestão de encomendas logísticas — versão full-stack com PHP/MySQL e dashboard com KPIs, e uma versão frontend standalone com toggle de modo claro/escuro.</p>
-      <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-1a1a1a.svg?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://custom-icon-badges.demolab.com/badge/PHP-1a1a1a.svg?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://custom-icon-badges.demolab.com/badge/MySQL-1a1a1a.svg?style=flat-square&logo=mysql&logoColor=white" />
-      <br/><br/>
-      <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Repositório-000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>VitaCare</h4>
-      <p>Sistema de gestão para clínicas com seis módulos, autenticação JWT e agendamento semanal de consultas.</p>
-      <img src="https://custom-icon-badges.demolab.com/badge/PHP-1a1a1a.svg?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://custom-icon-badges.demolab.com/badge/MySQL-1a1a1a.svg?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://custom-icon-badges.demolab.com/badge/JWT-1a1a1a.svg?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      <br/><br/>
-      <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Repositório-000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+  <h4>Terminus</h4>
+ <p>
+  Assistente inteligente de terminal Linux com IA integrada, base de conhecimento
+  offline e execução segura. O Terminus ajuda utilizadores a aprender, diagnosticar
+  e resolver problemas do sistema diretamente pelo terminal.
+</p>
+<img src="https://custom-icon-badges.demolab.com/badge/Python-000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://custom-icon-badges.demolab.com/badge/Shell-000000.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
 
+  <br/><br/>
+
+  <a href="https://github.com/BerniloBernardo-boot/terminus">
+    <img src="https://custom-icon-badges.demolab.com/badge/Repositório-000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td>
+</table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
 ### Estatísticas
