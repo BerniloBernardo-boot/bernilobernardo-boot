@@ -69,21 +69,23 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 </table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
-### Estatísticas
+<h3 align="center">Estatísticas</h3>
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=bernilobernardo-boot&show_icons=true&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api?username=BerniloBernardo-boot&show_icons=true&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc"
   />
+
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernilobernardo-boot&layout=compact&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&border_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerniloBernardo-boot&layout=compact&locale=pt-br&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc"
   />
 </p>
+
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bernilobernardo-boot&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888"
+    src="https://streak-stats.demolab.com?user=BerniloBernardo-boot&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888"
   />
 </p>
 
