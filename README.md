@@ -10,7 +10,7 @@
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
-<h3 align="center">Sobre min</h3>
+### Sobre min
 
 18 anos, Angola. Frontend developer júnior, a construir a minha própria trajetória com foco em interfaces bem feitas e ambiente de desenvolvimento próprio — uso Linux (Kubuntu) no dia a dia, incluindo rice setups personalizados.
 
@@ -20,7 +20,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
-<h3 align="center">Stack</h3>
+### Satck
 
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -47,7 +47,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
 
-<h3 align="center">Projectos em destaques</h3>
+### Projectos em destaques
 
 <table>
 <td width="33%" valign="top">
