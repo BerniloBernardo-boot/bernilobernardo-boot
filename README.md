@@ -40,7 +40,7 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   <img src="https://custom-icon-badges.demolab.com/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://custom-icon-badges.demolab.com/badge/Framer-000000.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
 <img src="https://custom-icon-badges.demolab.com/badge/Blender-000000.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-<img src="https://custom-icon-badges.demolab.com/badge/Python-000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
 <img src="https://custom-icon-badges.demolab.com/badge/Shell-000000.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
 <img src="https://custom-icon-badges.demolab.com/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
