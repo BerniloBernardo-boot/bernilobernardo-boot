@@ -27,7 +27,6 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
   <img src="https://custom-icon-badges.demolab.com/badge/CSS3-000000.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://custom-icon-badges.demolab.com/badge/Node.js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Shell-000000.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
 </p>
 
 <p align="left">
@@ -44,9 +43,11 @@ O objetivo é simples: sair de júnior para referência — primeiro em projetos
 
 <img src="https://custom-icon-badges.demolab.com/badge/Shell-000000.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
 <img src="https://custom-icon-badges.demolab.com/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+ <img src="https://custom-icon-badges.demolab.com/badge/Shell-000000.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:273036,100:000000&height=2&width=100%" />
+ 
 
 ### Projectos em destaques
 
