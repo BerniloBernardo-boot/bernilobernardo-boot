@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1200&color=000000&background=F5F5F5&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer;Linux+%2F+Kubuntu+%2B+Rice+Setups;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Node;Sempre+a+construir."
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1200&color=000000&background=F5F5F5&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer;Linux+%2F+Omarchy+%2B+Rice+Setups;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Node;Sempre+a+construir."
     alt="Typing SVG"
   />
 </p>
@@ -12,7 +12,7 @@
 
 ### Sobre min
 
-18 anos, Angola. Frontend developer júnior, a construir a minha própria trajetória com foco em interfaces bem feitas e ambiente de desenvolvimento próprio — uso Linux (Kubuntu) no dia a dia, incluindo rice setups personalizados.
+18 anos, Angola. Frontend developer júnior, a construir a minha própria trajetória com foco em interfaces bem feitas e ambiente de desenvolvimento próprio — uso Linux (Omarchy) no dia a dia, incluindo rice setups personalizados.
 
 Trabalho principalmente com HTML, CSS e JavaScript, com Node.js no back-end quando o projeto precisa, e uso Figma e Framer para desenhar antes de construir. Blender e Three.js entram quando o projeto pede motion ou algo em 3D.
 
